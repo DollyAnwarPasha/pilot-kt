@@ -3,9 +3,7 @@
 <?php
     include "_partials/head.php";
 ?>
-
-<body>
-    
+<body>  
 <?php
     include "_partials/nav.php";
     include "_partials/carousel.php";
